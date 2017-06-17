@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/talk_group"
+        android:title="讨论组"
+        android:icon="@mipmap/ic_launcher"/>
+    <item android:id="@+id/get_match"
+        android:title="我要发起"
+        android:icon="@mipmap/ic_launcher"/>
+    <item android:id="@+id/geren"
+        android:title="个人"
+        android:icon="@mipmap/ic_launcher"/>
+</menu>
